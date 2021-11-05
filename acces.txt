@@ -1,0 +1,86 @@
+http://127.0.0.1:8000/admin/login/?next=/admin/
+username :williantag07
+mdp : Tagerwill=11
+mails : williantag07@gmail.com
+
+--------------------------------------------
+
+
+site :https://github.com/Williantagain/tout-est-la.git
+
+…ou créez un nouveau référentiel sur la ligne de commande
+echo "# tout-est-la" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Williantagain/tout-est-la.git
+git push -u origin main
+
+
+ 
+…ou pousser un dépôt existant depuis la ligne de commande
+
+git remote add origin https://github.com/Williantagain/tout-est-la.git
+git branch -M main
+git push -u origin main
+
+ 
+
+
+importants:
+ quand tu met le mot de passe ça ne prend pas in faut juste suivre les instructions
+pour ma part jai pro un jetton de 90 jours
+
+jetons : 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   cest xa qui remplace le mot de passe sinon on ne pourra pas mettre le code en ligne
+ 
+------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------
+pour le site site tonygabana877
+
+https://www.pythonanywhere.com/login/ 
+mdp : Tagerwill=11
+mails :tonygabana877@gmail.com
+username : tonygabana877
+-------------------------------------------------------------------------
+https://github.com/
+http://127.0.0.1:8000/admin/login/?next=/admin/
+mails : williantagain@gmail.com
+mdp : Tagerwill=11
+username : Williantagain
+
+
+--------------------
+GitHub
+mdp (jeton: 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) j'ai demander valable 07jours
+
+voir : 
+https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/#what-you-need-to-do-today
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+j'ai pas lu le mail
+https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGlkZDrHPbvztgmsLHGqNlZHJGXß
+---------------------------
+
+https://stackoverflow.com/users/17289299/williantagain
+
+mails : williantagain@gmail.com
+mdp : Tagerwill=11
+username : Williantagain
+----------------------------------------
+https://openclassrooms.com/fr/dashboard/courses
+mails : williantagain@gmail.com
+mdp : Tagerwill=11
+username : Williantagain
+
+
